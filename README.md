@@ -1,12 +1,14 @@
 # KICS
-Voice Pack for Elite Dangerous by Arflint
+### Voice Pack for Elite Dangerous oringinally by Arflint. Now Maintained by the community 
 
-This is a high-quality Voice Pack for [Voice Attack](https://www.voiceattack.com/) developed by Arflint on the Elite Dangerous
-[forums](https://forums.frontier.co.uk/). The specific thread for this Voice Pack is [here](https://forums.frontier.co.uk/showthread.php?t=126669).
+   This is a Voice Pack for [Voice Attack](https://www.voiceattack.com/) 
+
+## NOTE
+ i am not the original creator of this voicepack, but i quickly grew to love using it with Elite: Dangerous, even though it's original author had long since left it behind and ceded all rights to the community*, the only problem i had with it were a few non working commands and the keybindings, i plan to slowly update this fork to support bindED to make life easier for anyone wishing to use this voice pack, i may add new commands and edit others as well, but new voice responses cannot be created so im limited in what i can do
 
 ## Status
-As of [6th March 2016](https://forums.frontier.co.uk/showthread.php?t=126669&p=3650537&viewfull=1#post3650537), Arflint has stopped
-developing this Voice Pack and has ceded all rights to the Elite Dangerous community.
+
+Currently updating to support bindED plugin as of 6th of april 2018
 
 ## Command List
 
@@ -78,27 +80,19 @@ Target;Lock;Lock Target;Target Lock
 
 ### Confirmations:
 
-No;No Thanks;No Thank You;Nope;Negative
+No;No Thanks;No Thank You;Nope;Negative - unused currently 
 
 Yes;Yes Please;Aye;Affirmative
 
 ### Miscellaneous:
 
-Frak
-
-Gorram
-
 Humour Seventy Five
 
-Humour Sixty Five;Let’s Make That Sixty Five
-
-I Am A Leaf On The Wind
+Humour Sixty Five percent;Let’s Make That Sixty Five 
 
 KICS;Computer
 
 Say Bye Bye;Bye Bye
-
-So Say We All
 
 System Information;System Status;KICS About
 
@@ -183,3 +177,5 @@ Seventy Five;Three Quarter;Speed Seventy Five;Engines Seventy Five;Engines to Se
 Twent Five;Quarter;Quarter Speed;Speed Twent Five;Engines Twent Five;Engines to Twent Five;Slow
 
 Zero;Stop;Full Stop;Engines Zero;Stop Engines;Engines to Zero
+
+* [see post](https://forums.frontier.co.uk/showthread.php?t=126669&p=3650537&viewfull=1#post3650537)
