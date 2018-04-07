@@ -142,4 +142,4 @@ Twent Five;Quarter;Quarter Speed;Speed Twent Five;Engines Twent Five;Engines to 
 
 Zero;Stop;Full Stop;Engines Zero;Stop Engines;Engines to Zero
 
-* [see post](https://forums.frontier.co.uk/showthread.php?t=126669&p=3650537&viewfull=1#post3650537) and license.txt
+ *[see post](https://forums.frontier.co.uk/showthread.php?t=126669&p=3650537&viewfull=1#post3650537) and license.txt
