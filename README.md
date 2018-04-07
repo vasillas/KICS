@@ -100,43 +100,7 @@ Who’s There?
 
 ### Music Control:
 
-Change Channnel;Change The Channel;Next Channel
-
-Play My Music;Play My Mix;Open My Playlist;My Playlist
-
-Play Some Blues
-
-Play Some Chillout;Play Some Downtempo;Play Some Ambient
-
-Play Some Classical
-
-Play Some Country
-
-Play Some Easy;Play Some Easy Listening
-
-Play Some Eighties
-
-Play Some Electronic
-
-Play Some Jazz
-
-Play Some Metal;Play Some Heavy Metal
-
-Play Some Music;Play Music;Music;Play Some Tunes;Radio On;Radio;Change The Music
-
-Play Some Nineties
-
-Play Some Pop;Play Some Pop Music
-
-Play Some R and B;Play Some R N B;Play Some Hip Hop
-
-Play Some Raggae;Play Some Raggae Mon
-
-Play Some Rap
-
-Play Some Rock
-
-Stop Music;Stop The Music
+section removed as it doesnt work properly at all - if someone wants to recreate it submit a pull request 
 
 ### Power Distributer:
 
@@ -178,4 +142,4 @@ Twent Five;Quarter;Quarter Speed;Speed Twent Five;Engines Twent Five;Engines to 
 
 Zero;Stop;Full Stop;Engines Zero;Stop Engines;Engines to Zero
 
-* [see post](https://forums.frontier.co.uk/showthread.php?t=126669&p=3650537&viewfull=1#post3650537)
+* [see post](https://forums.frontier.co.uk/showthread.php?t=126669&p=3650537&viewfull=1#post3650537) and license.txt
